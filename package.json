@@ -1,1 +1,10 @@
-{}
+{
+  "dependencies": {
+    "prettier": "3.3.3"
+  },
+  "scripts": {
+    "format": "npm run --silent listdiffed | xargs npm run --silent formatbase",
+    "formatbase": "npx prettier --write",
+    "listdiffed": "git rev-parse HEAD | xargs git diff-tree --diff-filter=ACMRTU --no-commit-id --name-only -r"
+  }
+}
