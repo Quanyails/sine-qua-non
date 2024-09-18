@@ -1,0 +1,359 @@
+---
+tags:
+  - english language
+  - vocabulary
+---
+
+# Vocabulary Encountered in the Wild
+
+Each term is linked to the place I found them, where applicable.
+
+- [2024-09-09] [abjuration](https://tvtropes.org/pmwiki/pmwiki.php/Recap/DeliciousInDungeonS1E10)
+- [2025-03-19] [accretive](https://intfiction.org/t/-/70115/2)
+- [2025-08-31] [alfresco](https://crosswordfiend.com/2025/08/30/sunday-august-31-2025/#la)
+- [2025-09-??] [amadou](https://www.reddit.com/comments/ucbyox/)
+- [2024-07-12] [anadromous](https://xkcd.com/2958/) (alt text)
+- [2024-??-??] [aperçu](https://en.wikipedia.org/wiki/The_Answer_Is...)
+- [2025-01-21] [barmy](https://tvtropes.org/pmwiki/pmwiki.php/Characters/DoctorWhoFourthDoctor)
+- [2025-03-12] [beignet](https://tvtropes.org/pmwiki/pmwiki.php/UnintentionallyUnwinnable/Sierra)
+- [2024-10-05] [bogart](https://www.reddit.com/comments/jxyfuh/comment/gczh08r/)
+- [2024-02-09] [cicatrix](https://j-archive.com/showgame.php?game_id=8806)
+- [2024-??-??] cloy
+- [2024-09-19] [condyle](https://www.strongerbyscience.com/how-to-deadlift/)
+- [2025-08-01]  [concupiscence](https://en.wikipedia.org/wiki/Femme_fatale)
+- [2024-02-09] [copacetic](https://www.youtube.com/watch?v=Bk8xzJqyf2c)
+- [2024-08-27] [credenza](https://www.reddit.com/comments/1f1y5qx/comment/lk2ze2j/)
+- [2024-08-25] [cruet](https://comicskingdom.com/bizarro/2022-09-30)
+- [2024-??-??] [cynosure](https://youtu.be/UQsEFJRB7iw?si=IfH5WCDTgOzxEnrS&t=2484)
+- [2025-03-16] [découpaged](https://iplayif.com/?story=https%3A%2F%2Fgithub.com%2Fi7%2Fcounterfeit-monkey%2Freleases%2Fdownload%2Fr9%2FCounterfeitMonkey-9.gblorb)
+- [2025-05-15] [devoir](https://tcrf.net/Development:Pok%C3%A9mon_Ruby_and_Sapphire/Localization_Glossaries/English/Pokemon)
+- [2024-10-14] [doublet](https://www.google.com/search?q=medieval+clothing+waistcoat-like+tunic+name&udm=2)
+- [2025-08-12] [druthers](https://www.linkedin.com/in/matthewjhealy/)
+- [2024-09-16] [erstwhile](https://tvtropes.org/pmwiki/pmwiki.php/WantsAPrizeForBasicDecency/LiveActionTV)
+- [2024-??-??] [esprit de corps](https://comicskingdom.com/bizarro/2023-04-14)
+- [2024-07-09] [excoriate](https://www.reddit.com/comments/1dz79ug/)
+- [2024-10-10] [fontina](https://discord.com/channels/@me/601593408183599109/1293995987056201851)
+- [2025-09-06] [gorp](https://crosswordfiend.com/2025/09/05/saturday-september-6-2025/#ny)
+- [2025-07-06] [guff](https://store.steampowered.com/app/1145350/)
+- [2024-10-04] [gut rot](https://www.pocketcomics.com/comic/319/chapter/42/product)
+- [2024-02-09] [impresario](https://abc.com/episode/717cb5b8-7cfb-4b83-9cb8-8947b0e86a79)
+- [2024-02-09] [inculcated](https://www.youtube.com/watch?v=Bk8xzJqyf2c)
+- [2024-11-18] [kedging](https://xkcd.com/3013/)
+- [2024-12-28] [kick the tires](https://www.nytimes.com/games/connections/2024-12-28)
+- [2024-09-19] [kyphotic](https://www.strongerbyscience.com/how-to-deadlift/)
+- [2024-09-27] [lightfast](https://www.amazon.com/-/dp/0740797719)
+- [2024-09-19] [lordotic](https://www.strongerbyscience.com/how-to-deadlift/)
+- [2025-04-15] [lotic](https://tcrf-net.translate.goog/Development:Pok%C3%A9mon_Ruby_and_Sapphire/Localization_Glossaries/English/Pokemon)
+- [2024-10-03] [martinet](https://tvtropes.org/pmwiki/discussion.php?id=9t93hnq3)
+- [2025-09-21] [missive](https://crosswordfiend.com/2025/09/20/sunday-september-21-2025/#un)
+- [2024-10-01] [mothball](<https://en.wikipedia.org/wiki/Evergreen_(media)>)
+- [2024-07-26] [multihyphenate](https://www.reddit.com/comments/1ecquqv/comment/lf20c4g/)
+- [2025-06-02] [myriad](https://www.theatlantic.com/games/bracket-city/?date=2025-06-01) (numerical definition)
+- [2025-03-13] [narthex](https://ifdb.org/viewgame?id=aearuuxv83plclpl)
+- [2024-02-09] [natation](https://j-archive.com/showgame.php?game_id=8806)
+- [2025-02-17] [numinous](https://www.amazon.com/dp/1492871842)
+- [2024-??-??] [patrician](https://tvtropes.org/pmwiki/pmwiki.php/Main/ImpoverishedPatrician)
+- [2024-??-??] [paucal](https://www.reddit.com/comments/1ev7ew6/comment/liswjz4/)
+- [2024-??-??] [periphrastic](https://en.wiktionary.org/wiki/periphrastic)
+- [2024-02-09] [perquisite](https://j-archive.com/showgame.php?game_id=8806)
+- [2024-10-22] [philandering](https://tvtropes.org/pmwiki/pmwiki.php/Characters/HadesOlympianGods)
+- [2025-03-26] [picayune](https://pete-walker.com/complex_ptsd_book.html)
+- [2024-09-27] [plein air](http://gurneyjourney.blogspot.com/2008/06/green-problem.html)
+- [2025-03-16] [play gooseberry](https://iplayif.com/?story=https%3A%2F%2Fgithub.com%2Fi7%2Fcounterfeit-monkey%2Freleases%2Fdownload%2Fr9%2FCounterfeitMonkey-9.gblorb)
+- [2024-01-04] [portcullis](https://tvtropes.org/pmwiki/pmwiki.php/Film/DungeonsAndDragonsHonorAmongThieves)
+- [2024-10-01] [prevaricate](https://en.wikipedia.org/wiki/Noah_S._Sweat#The_"whiskey_speech")
+- [2024-09-26] [procrustean](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
+- [2024-??-??] [putative](https://en.wikipedia.org/wiki/Leopardus_narinensis)
+- [2024-09-09] [retainer](https://tvtropes.org/pmwiki/pmwiki.php/Recap/DeliciousInDungeonS1E10) (fee definition)
+- [2024-??-??] recompense
+- [2024-??-??] [riparian](https://news.uga.edu/joro-spiders-are-here-to-stay/)
+- [2024-05-24] [sea change](https://www.reddit.com/comments/1cyp63a/)
+- [2024-08-26] [snifter](https://connections.swellgarfo.com/nyt/82)
+- [2025-08-]16 [sottisier](https://www.collinsdictionary.com/dictionary/english/sottisier) (Word of the Day)
+- [2024-10-04] [spring chicken](https://www.pocketcomics.com/comic/319/chapter/47/product)
+- [2024-09-16] [squeegee](https://en.wikipedia.org/wiki/Squeegee)
+- [2025-09-11] [staid] (https://www.reddit.com/r/crossword/comments/14od4n1/comment/jqcejso/)
+- [2024-??-??] [suborn](https://tvtropes.org/pmwiki/pmwiki.php/Main/ExtraStrengthMasquerade)
+- [2024-10-14] [surcoat](https://www.google.com/search?q=medieval+clothing+waistcoat-like+tunic+name&udm=2)
+- [2024-01-04] [tope](https://tvtropes.org/pmwiki/pmwiki.php/Film/DungeonsAndDragonsHonorAmongThieves)
+- [2024-09-09] [trial balloon](https://connections.swellgarfo.com/nyt/114)
+- [2024-10-08] [tympanum → pediment](https://cstorb.com/2016/01/22/jesse-bair-at-sothebys/)
+- [2024-09-07] [unctuous](https://www.amazon.com/-/dp/1932907009)
+- [2024-09-19] [Valsalva](https://www.strongerbyscience.com/how-to-deadlift/)
+- [2024-10-01] [vertiginous](https://en.wikipedia.org/wiki/Vertiginous_question)
+- [2024-12-24] [vintner](https://www.nytimes.com/crosswords/game/mini/2024-12-24)
+- [2024-11-19] [watershed](https://tvtropes.org/pmwiki/pmwiki.php/Characters/Garfield)
+- [2024-12-27] [waylaid](https://www.reddit.com/comments/1hmldky/comment/m3wr40p/)
+- [2024-08-25] [wheelman](https://comicskingdom.com/bizarro/2022-09-03)
+- [2025-08-19] [zhuzhing](https://www.metafilter.com/209833/#8752608)
+
+<!-- -->
+
+[2025-07-06] From _The Colour of Magic_:
+
+- accede (37)
+- calcareous (46)
+- caravanserai (14)
+- cully (83)
+- cupidity (27)
+- dint (55)
+- dovecote (84)
+- ganef (38)
+- girt (67)
+- impinging (24)
+- liana (57)
+- muzzily (53)
+- oblong (noun) (46)
+- obloquy (23)
+- peremptory (33)
+- privations (25)
+- recumbent (50)
+- rictus (31, 78)
+- rota (28)
+- spinny (68)
+- stoppered (56)
+- suffused (44)
+- taper (48)
+- tarsier (81)
+- treacle (75)
+- tumbledown (57)
+- tussock (81)
+
+[2023-11-25] From _Hades_:
+
+- blackguard
+- chaplet
+- chiton
+- hireling
+- lambent
+- layabout
+- riposte
+- sallow
+
+[2023-10-12] From _House of Leaves_:
+
+- adumbrate (396)
+- amaurotic (21)
+- ambage (114)
+- anfractuosity (115)
+- aphonia (58)
+- aphorias (143)
+- apoplectic (296)
+- atrabilious (122)
+- bartizan (437)
+- blue streak (54)
+- bower (262)
+- bucket seat (88)
+- cenotaph (542)
+- chinawhite (494)
+- Cimmerian (98)
+- clemency (135)
+- clipped tone (17)
+- concertina (262)
+- concomitant (94)
+- conjunctiva (300)
+- crepe (not the food, 357)
+- curmurring (123)
+- cyanotic (518)
+- diaphanous (69)
+- distillate (315)
+- docent (500)
+- dreck (410)
+- dyad (107)
+- ecdysiast (511)
+- echolalia (396)
+- eidetic (106)
+- endolymph (113)
+- formica (510)
+- fractious (95)
+- frosh (55)
+- gamboge (313)
+- gliterati (366)
+- goraks (466)
+- grippe (500)
+- haar (298)
+- Hi 8 (< 16)
+- Homer Spit (103)
+- ibid. (165)
+- indigence (180)
+- indigents (494)
+- inter (327)
+- intercede (298)
+- isochron (374)
+- jacarandas (413)
+- Joel-Peter Witkin (xxi)
+- Maginot line (xx)
+- mescaline (363)
+- micturate (403)
+- mille-feuille (247)
+- misprision (336)
+- muntin (231)
+- mutism (396)
+- nettlesome (397)
+- obdurate (378)
+- omphalos (414)
+- onanism (467)
+- parkerized (554)
+- peripatetic (138)
+- perspicacious (346)
+- phillumenist (466)
+- postils (265)
+- Preadamite (23)
+- preternatural (155)
+- prevaricating (611)
+- priapic (115)
+- probity (554)
+- prolix (xxii)
+- pyritic (58)
+- quay (350)
+- quotidian (98)
+- raphe (403)
+- ratiocinations (380)
+- rebarbative (339)
+- retinue (26)
+- rivulet (93)
+- schismatic (109)
+- sclerotic (143)
+- septum (83)
+- serac (68)
+- shallop (136)
+- silentiary (129)
+- Soho (6)
+- spate (56)
+- sterno (403)
+- surfeit (12)
+- swound (138)
+- t-stop (97)
+- trattoria (367)
+- tropos (150)
+- tweeked (412)
+- verbigeration (379)
+- vituperative (16)
+- winnow (149)
+
+From @moscd:
+
+- [2022-09-24] [carouse](https://discord.com/channels/448538687983321098/1020875112045613217/1023083215537315890)
+- [2024-12-21] [claret](https://discord.com/channels/448538687983321098/1208868988851847168/1320215029303345162)
+- [2024-09-25] [couch (verb)](https://discord.com/channels/1284998555903332434/1284999109240946720/1288615188085342249)
+- [2024-08-20] [demesne](https://discord.com/channels/@me/261586968230494219/1275492612437970998)
+- [2024-01-17] [edify](https://discord.com/channels/448538687983321098/1085058351265751140/1197345005191311360)
+- [2023-09-04] [grognard](https://discord.com/channels/237744410995982337/1148344754862571610/1148452891342930020)
+- [2024-01-16] [hit the bricks](https://discord.com/channels/448538687983321098/1085058351265751140/1196844852252520571)
+- [2022-09-24] [maudlin](https://discord.com/channels/448538687983321098/1020875112045613217/1023084061696200714)
+- [2024-01-23] [mothball (verb)](https://discord.com/channels/@me/261586968230494219/1199550528439451678)
+- [2023-03-01] [proffer](https://discord.com/channels/448538687983321098/1020875112045613217/1080355215452164157)
+- [2022-11-11] [rotter](https://discord.com/channels/@me/261586968230494219/1040637936649125968)
+- [2024-09-15] [scuttlebutt](https://discord.com/channels/448538687983321098/1283910018483228755/1283910993591926847)
+- [2024-09-23] [swot (up on)](https://discord.com/channels/1284998555903332434/1284999109240946720/1287871458483245077)
+
+[2023-11-08] From _Tlön, Uqbar, Orbis Tertius_:
+
+- dictum (8)
+- educed (14)
+- heresiarchs (3)
+- monism (9)
+- octavo (6)
+- polemic (3)
+- samovar (15)
+- sophism (11)
+- specious (11)
+- vertiginous (12)
+
+From Word Grid:
+
+- [2025-07-23] arete
+- [2025-08-12] argosy
+- [2025-09-04] autotype
+- [2025-09-10] benignancy
+- [2025-08-07] bilious
+- [2025-08-07] biotics
+- [2025-09-05] boffin
+- [2025-09-05] boffo
+- [2025-07-19] burke
+- [2025-07-26] chauffer
+- [2025-08-14] chyron
+- [2025-08-31] corbe
+- [2025-07-23] couped
+- [2025-08-11] defoul
+- [2025-07-25] demit
+- [2025-08-28] flacker
+- [2025-07-19] foible
+- [2025-08-21] freakful
+- [2025-08-14] grith
+- [2025-08-15] gurly
+- [2025-08-15] gussy
+- [2025-08-12] hoha (#377)
+- [2025-08-08] jabble
+- [2025-08-13] kaikai (#376)
+- [2025-08-30] lagniappe (via "tilly")
+- [2025-08-11] lown
+- [2025-08-24] lumme
+- [2025-08-24] lummy
+- [2025-09-07] marchland
+- [2025-08-11] mensal
+- [2025-08-11] menses
+- [2025-09-05] minge
+- [2025-08-11] odyle
+- [2025-08-30] neoplasm
+- [2025-09-14] newel
+- [2025-07-23] nous
+- [2025-07-25] recit
+- [2025-07-27] pastille
+- [2025-08-31] perse
+- [2025-08-07] pillion
+- [2025-08-30] photismus (via "nomenclate")
+- [2025-07-29] plinth
+- [2025-08-09] postil
+- [2025-08-06] prana
+- [2025-08-07] rubious
+- [2025-07-19] sapor
+- [2025-08-04] sententious (from "gnomic")
+- [2025-08-28] silvertail
+- [2025-09-21] stemma
+- [2025-08-15] tela
+- [2025-09-14] telemark
+- [2025-08-20] teleology
+- [2025-08-11] ternal
+- [2025-08-15] thill
+- [2025-08-24] tomium
+- [2025-09-02] ure
+- [2025-08-19] vapulate
+- [2025-08-11] ventil
+- [2025-08-20] vint
+- [2025-08-11] xenial
+- [2025-08-14] zoon
+- [2025-08-25] zoonic
+
+## Bonus: Long words
+
+- compartmentalization (20)
+- counterarguments (16)
+- immunocompromised (17)
+- intellectualization (19)
+- internationalization (20)
+- misinterpretations (18)
+- overqualification (17)
+- rambunctiousness (16)
+
+## Vonus: Vague words
+
+- art
+- awkward
+- best/worst
+- cool
+- culture
+- cute
+- date (the social kind)
+- entertain
+- friend
+- fun
+- funny
+- good/bad
+- happy/sad
+- intense
+- life
+- love
+- new
+- ugly
+- word
