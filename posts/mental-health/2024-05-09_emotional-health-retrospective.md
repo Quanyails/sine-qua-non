@@ -26,7 +26,7 @@ Beliefs:
 
 - When I was a kid, I'd see all of these other happy kids at school and figure they were _really_ good about keeping up appearances outside the house.
 - I'd see all of these romances on TV (not even steamy ones) and was surprised how popular this specific fantasy was. Likewise, I was under the impression stuff meant for mature/adult audiences were, like, violent slasher films and figured people grew into that sort of taste.
-- Ever get stage fright from everyday social interactions? I assumed people I met on the street were two-faced and secretly judged me when we talked. Afterwards, I imagined them secretly picking over every word I said and thinking how bad I was.
+- Ever get stage fright from everyday social interactions? I assumed people I met on the street were two-faced and secretly judged me when we talked. Afterward, I imagined them secretly picking over every word I said and thinking how bad I was.
 - [2024-08-19] I assumed there was some hidden trick to how society worked and people were keeping it a secret from me.
 - I assumed everyone who acted friendly wanted to exploit or scam me. Likewise, I assumed everyone who gave me recommendations wanted to sell me something. In general, I had a hard time forging connections with and trusting other people. (However, one friend managed to convince me how they couldn't be deceiving me _years_ into knowing each other.)
 - [2024-08-28] I never understood why women would consider dressing in attractive clothing/putting on makeup/etc. when those actions just put them at greater risk at being harassed.
@@ -65,12 +65,13 @@ Behaviors:
 Interactions:
 
 - [2024-07-16] I never learned how to speak up for myself (or at all) because none of my objections mattered. Likewise, I never interrupted conversations and instead just sat there in silence waiting for them to finish.
+- [2024-11-21] I never explained my thought processes because they would be taken as an excuse instead of something valid.
 - [2024-07-23] I would never be 100% clear when explaining myself, since the only outcome would be that my words would be twisted irrevocably beyond its intent.
 - [2024-07-24] I was never comfortable asking for help. I feared being weak and/or people "helping" by taking advantage of me.
 - [2024-08-10] I was overly apologetic and didn't know how to respond to apologies because no one apologized to me.
 - [2024-08-19] I had a hard time listening to others because I didn't want to be taken advantage of. At the same time, I wanted people to know I was special so people would treat me kindly.
 - [2024-08-25] I was conflict-avoidant and easily bent to peer pressure out of a fear of being abandoned.
-- [2024-08-30] I could never share an interest with people because I would forever be defined by that one interest, no matter how much I say I changed. I could never wear branded clothing or add accessories to my person.
+- [2024-08-30] I could never share my interests with people because I would forever be defined by that one interest, no matter how much I say I changed. I could never wear branded clothing or add accessories to my person.
 - [2024-09-16] I hated admitting someone was right because that person would lord over their victory over me for the rest of time and use it as a weapon against me.
 - [2024-09-17] I treated everyone with undue fairness because I grew up in an unfair environment, even if that meant sacrificing my own needs for their sake.
 - [2024-10-02] I have a hard time saying "no" to people because people didn't accept "no" as an answer.
@@ -84,7 +85,7 @@ Actions:
 - [2024-08-19] I had a hard time throwing away and/or destroying things because it was common for my possessions to be thrown away as punishment. I still struggle to do things like cracking an egg.
 - [2024-10-02] I enjoy thrifting because I sympathize with being a hidden gem among trash.
 - [2024-10-09] I detested competitions since I was afraid of being punished if I didn't win. This also made me a sore loser.
-- [2025-03-14] I could never pick up useful skills because doing so would motivate people to rely on me for that skill, blaming me if anything went wrong.
+- [2025-03-14] I could never pick up useful skills because people would then rely on me for that skill, blaming me if anything went wrong.
 - [2025-04-12] I was ashamed of crying, as other people berated me for being week if I did so.
 
 Sense of self/interests:
