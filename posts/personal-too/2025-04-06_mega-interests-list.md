@@ -1,0 +1,271 @@
+---
+tags:
+  - interests
+  - my interests
+---
+
+# Mega Interests List
+
+Last update: 2025-04-06
+
+## Overview
+
+General interests:
+
+- Deep dives into identity and psychology.
+- Deep dives on obscure subjects.
+- Media with certain cerebral elements.
+- Topics that provoke intellectual curiosity.
+- Works with [Developer's Foresight](https://tvtropes.org/pmwiki/pmwiki.php/Main/DevelopersForesight).
+
+Notes:
+
+- If I list a subject, you can assume I can at discuss it with _some_ degree of depth.
+- If I list the first installment of a work, you can generally assume I am also interested in its sequels but _not_ its spin-offs.
+- If I list a later installment of a work, you can generally assume I am interested in that installment only.
+- A previous list of my video game interests can be found [here](https://discord.com/channels/448538687983321098/1018187500088471552/1159148241233903666).
+
+## The list
+
+- ! = strong interest
+- ? = weak interest
+
+---
+
+- 3blue1brown
+- _999: Nine Hours, Nine Persons, Nine Doors_?
+- Acme Klein Bottle
+- Adobe Photoshop
+- _AdventureQuest_ (Falerin Ardendor era)
+- Aesthetics Wiki?
+- Akshon?
+- AlphaGo
+- _Animal Crossing: Wild World_
+- Animusic
+- _Antichamber_?
+- _Aquaria_?
+- Astronomical objects?
+- _Baba is You_
+- _Backdoor_?
+- Bart Bonte
+- Ben's Bites (pre-forums)
+- _Bizarro_?
+- Blender?
+- _Blood Stain_
+- Blumineck?
+- Cats!
+- Character design
+- _Clicker Heroes_
+- Clip Studio Paint
+- Constellations?
+- Conway's Game of Life
+- _Counterfeit Monkey_
+- Create-a-Pokémon Project
+- _Crimson Room_?
+- Cryptic crosswords
+- r/css_irl
+- The Cutting Room Floor
+- _Death Note_ (up to/including spoiler scene)
+- _Death Vigil_
+- Dell SK-8115
+- DeviantArt (pre-Tumblr)
+- _Digimon Dusk_?
+- _Digimon Frontier_?
+- _Digimon Tamers?_
+- Discord
+- Dr. Glaucomflecken?
+- Duolingo
+- _Dwarf Fortress_?
+- Esolangs?
+- ES Posthumus
+- etymology_nerd?
+- _Eversion_?
+- _Fancy Pants Adventures_
+- Fandom lore
+- _Fantasy Kaleidoscope_
+- Finale?
+- Fireship
+- FL Studio?
+- foobar2000
+- Fractals
+- _Fullmetal Alchemist: Brotherhood_
+- _Garfield Minus Garfield_?
+- _Ghost Trick_!
+- _Gödel, Escher, Bach_
+- Golly
+- Google Earth
+- _A Grain of Truth_?
+- _Hades_
+- _Hamilton_
+- _Hatoful Boyfriend_?
+- HealthyGamerGG
+- r/HobbyDrama
+- _Infinite Craft_
+- Inform 7?
+- Infosec?
+- Internet Symphony No. 1?
+- _Jeopardy_?
+- Jigsaw puzzles?
+- _Journey_
+- _Kingdom Hearts II_
+- Kitkat Playroom
+- Kurzgesagt?
+- _Lackadaisy_?
+- Lextorias
+- _Lost Pig_
+- LRXC?
+- Magma
+- Magic Poser
+- _Magic: The Gathering_?
+- Makefiles
+- Marvel Cinematic Universe (up to/including _Endgame_)
+- Masahiro Sakurai?
+- M. C. Escher
+- Mibbit
+- _Miegakure_?
+- _Minecraft_?
+- _Monument Valley_?
+- Neopets? (pre-Viacom)
+- _Nethack_
+- Nigel Richards?
+- NYT Connections
+- NYT Crossword
+- Origami
+- Original characters
+- Owls?
+- _Persona 5 Royal_?
+- Physical keyboards
+- PICO-8?
+- Pixel art
+- r/Place
+- _Pokémon Black and White_
+- _Pokémon Go_
+- _Pokémon Mystery Dungeon: Explorers of Darkness_
+- _Pokémon Ruby_
+- Pokémon Showdown
+- Pointless Sites
+- ProZD
+- Psychology?
+- Puzzle hunts
+- Recreational linguistics
+- Reddit?
+- _RuneScape_?
+- Sam Nielson
+- Simon Tatham's Puzzle Collection
+- _Skullgirls_?
+- _Spaghetti Ice_!
+- The Spriter's Resource
+- Stable Diffusion
+- _The Stanley Parable_
+- _Steins;Gate_
+- Summer Olympics
+- Super Bowl commercials?
+- _Surely You're Joking, Mr. Feynman_
+- _Tarzan_ (Disney)
+- _Team Fortress 2_
+- _Tengen Toppa Gurren Lagann_
+- _Terraria_
+- _Those Lacking Spines_
+- r/TipOfMyTongue
+- r/TipOfMyJoystick
+- _Titan Quest_
+- Tom Scott?
+- Tree-Style Tab
+- TV Tropes
+- Twisty puzzles?
+- TypeScript
+- _Undertale_
+- _Undertale Yellow_?
+- _Up_?
+- Version control?
+- Voting algorithms
+- VSauce
+- _VVVVVV_
+- _The Way of the Househusband_?
+- _Webcomic Name_
+- Web development
+- Webdriver Torso?
+- _Whose Line Is It Anyway_? (US version, pre-revival)
+- Wikipedia
+- _Windosill_
+- Wolfram Alpha
+- Wordplay
+- _The World Ends With You_?
+- Xiran Jay Zhao
+- XKCD
+- _Yu-Gi-Oh_?
+- _Yume Nikki_?
+
+<!--
+- Disney
+- Ghibli
+- Pixar
+-->
+
+<!--
+- _And Yet It Moves_??
+- _Angry Birds_??
+- Cake Wrecks??
+- _Candy box_??
+- _Civilization_??
+- _Cogs_??
+- _Core Keeper_??
+- _Crayon Physics Deluxe_??
+- _Danganronpa_??
+- _A Dark Room_??
+- _Doctor Who_??
+- Domino runs??
+- _Duke Nukem Forever_??
+- _Everywhere At The End of Time_??
+- FreeRice??
+- _Garfield_??
+- _Gorogoa_??
+- _Grandma Bethlinda's Variety Box_??
+- _Guru Logi Champ_??
+- _A Hat in Time_??
+- _Hidden Folks_??
+- _Hoshi Saga_??
+- I Can Has Cheeseburger??
+- _Inside Out_??
+- The Longest List of the Longest Stuff at the Longest Domain Name at Long Last?? (defunct)
+- _Kittens Game_??
+- LegalEagle??
+- _The Legend of Hei_??
+- _The Legend of Korra_??
+- _Machinarium_??
+- marble machines??
+- _Mission Impossible 5: Rogue Nation_??
+- _Mother 3_??
+- _Mystery of Time and Space_??
+- _My Hero Academia_??
+- _Mythbusters_??
+- _Ne Zha_??
+- _Neon Genesis Evangelion_??
+- Oddee?? (defunct)
+- _Omori_??
+- _Paprika_??
+- _Piper_??
+- _Portal 2_??
+- Postmodern Jukebox??
+- _Professor Layton and the Curious Village_??
+- Redwall??
+- _Rimworld_??
+- _Run_??
+- southern Chinese cuisine?
+- _Spice and Wolf_??
+- _Spy × Family_
+- _Starbound_??
+- _Stardew Valley_??
+- Steamed Hams??
+- _Stimulation Clicker_??
+- "Tank!!" (The Seatbelts)??
+- _This is the Only Level_??
+- Touhoumon??
+- _The Unbeatable Squirrel Girl_??
+- _Vampire Survivors_??
+- Vocaloid??
+- _Void Stranger_??
+- Warrior Cats??
+- World Cup??
+- _Yandere Simulator_??
+-->
