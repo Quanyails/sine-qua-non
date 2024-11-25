@@ -1,0 +1,2 @@
+photoshop drawing of a fairy grass smogon cap pokemon dandy lion dandelion, art by quanyails
+Steps: 20, CFG scale: 7.0, Seed: 914132152, Size: 512x512, Model hash: 47c8ec7d, Seed resize from: -1x-1, Denoising strength: 0.75

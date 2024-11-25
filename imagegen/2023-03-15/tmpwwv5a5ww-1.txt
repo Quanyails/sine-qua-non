@@ -1,0 +1,2 @@
+fakemon, clay, bronze orrery, hula, colored sketch, white background
+Steps: 20, Sampler: DDIM, CFG scale: 15, Seed: 2197836382, Size: 512x512, Model hash: 8712e20a5d, ControlNet Enabled: True, ControlNet Module: none, ControlNet Model: control_sd15_scribble [fef5e48e], ControlNet Weight: 1.55

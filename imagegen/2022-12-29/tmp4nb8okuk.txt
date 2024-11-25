@@ -1,0 +1,3 @@
+masterpiece,high quality,best quality,highest detail,4k, medium-length ((snow-white hair)), star, five-pointed star hairpin, yellow eyes, hoodie, starry background, cute, shy, tareme eyes, gentle smile, [[blushing]]
+Negative prompt: nsfw, lowres, (bad anatomy:1.21), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, messy hair, streaked hair, crown, red hair
+Steps: 50, Sampler: Euler a, CFG scale: 15, Seed: 4026288319, Size: 768x768, Model hash: 6569e224, Batch size: 6, Batch pos: 0, Denoising strength: 0.5, Mask blur: 4

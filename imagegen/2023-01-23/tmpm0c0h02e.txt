@@ -1,0 +1,3 @@
+fire afro hedgehog as a smogon cap pokemon, photoshop drawing, art by quanyails-40000
+Negative prompt: ms paint, pixel, worst quality, low-quality, watermark, artist name, signature, username
+Steps: 50, Sampler: Euler a, CFG scale: 10, Seed: 1530436923, Size: 512x512, Model hash: 47c8ec7d, Batch size: 6, Batch pos: 0

@@ -1,0 +1,2 @@
+smogon cap pokemon, photoshop drawing, art by quanyails-40000
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 0, Size: 512x512, Model hash: 47c8ec7d, Batch size: 6, Batch pos: 0

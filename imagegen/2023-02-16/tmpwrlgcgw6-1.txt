@@ -1,0 +1,7 @@
+fiery axolotl character design, no_humans
+Negative prompt: nsfw, lowres, (bad anatomy:1.21), bad hands, 1girl, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+Steps: 20, Sampler: DDIM, CFG scale: 15, Seed: 2585611637, Size: 512x512, Model hash: 8712e20a5d, ControlNet Enabled: True, ControlNet Module: none, ControlNet Model: control_sd15_scribble [fef5e48e], ControlNet Weight: 1
+
+Time taken: 12.51s
+
+Torch active/reserved: 3851/5970 MiB, Sys VRAM: 9753/12288 MiB (79.37%)

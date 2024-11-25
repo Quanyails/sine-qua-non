@@ -1,0 +1,17 @@
+abbrev,15,uncommon abbreviations
+awkward,20,words that are awkward to put in a newspaper for all ages
+bad,0,non-words that made it into the dictionary
+contrived,15,not-real terms
+eh,15,technically valid words I'm not happy to see
+fine,35,words that aren't exciting but not awful
+foreign,20,obscure foreign words
+good,50,good words otherwise not found in source wordlists
+indie,30,words that aren't quite mainstream
+name,20,uncommon proper names
+partial,20,two unrelated words that must be clued in as a fill-in-the-blank
+profane,5,obscene words
+rep,20,repeated letters
+roman,5,roman numerals
+tech,20,technical terms
+var,5,variant spellings
+vocab,20,obscure vocabulary

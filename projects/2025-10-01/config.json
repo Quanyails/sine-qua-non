@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "resources": [
+      "https://generalisms.com/constructing/",
+      "https://redd.it/nqsuku/",
+      "https://tcampbell.substack.com/p/shopping-for-wordlists"
+    ],
+    "updated": "2025-10-01"
+  },
+  "overrides": [
+    {
+      "score_path": "overridescores.txt",
+      "word_path": "overridewords.txt"
+    }
+  ],
+  "unused": [{
+    "name": "spreadthewordlist",
+    "path": "data/spreadthewordlist.dict",
+    "range": [0, 50],
+    "source": "https://www.spreadthewordlist.com/",
+    "updated": "2025-07-01"
+  }],
+  "wordlists": [{
+    "path": "data/christophsjones.txt",
+    "name": "christophsjones",
+    "range": [0, 50],
+    "source": "https://github.com/christophsjones/crossword-wordlist",
+    "updated": "2020-01-09"
+  }, {
+    "name": "brodatrimmed",
+    "path": "data/brodatrimmed.txt",
+    "range": [0, 50],
+    "source": "https://redd.it/nqsuku/",
+    "updated": "2020-06-20"
+  }, {
+    "name": "mattabate",
+    "path": "data/matt.txt",
+    "range": [0, 50],
+    "source": "https://github.com/mattabate/wordlist",
+    "updated": "2025-06-28"
+  }, {
+    "name": "crosswordnexus",
+    "path": "data/xwordlist.dict",
+    "range": [0, 100],
+    "source": "https://www.alexboisvert.com/xwordlist/",
+    "updated": "2023-02-12"
+  }]
+}
