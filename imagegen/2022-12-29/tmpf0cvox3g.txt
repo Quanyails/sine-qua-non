@@ -1,0 +1,3 @@
+masterpiece,high quality,best quality,highest detail,4k, (downcast eyes: 1.5), (looking down: 1.5), (staring down: 1.2), glowering, (frowning 1.2), (gray eyes: 1.4), swinging a rustic fishing pole, baggy sweatshirt, ponytail, hairtie, [motion blur]
+Negative prompt: nsfw, lowres, (bad anatomy:1.21), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (frilly: 1.2), (angry: 1.5), confused, concerned, emotional, (surprised: 1.5)
+Steps: 50, Sampler: DDIM, CFG scale: 17.5, Seed: 4026288321, Size: 768x768, Model hash: 6569e224, Batch size: 6, Batch pos: 2, Denoising strength: 0.6, Mask blur: 4

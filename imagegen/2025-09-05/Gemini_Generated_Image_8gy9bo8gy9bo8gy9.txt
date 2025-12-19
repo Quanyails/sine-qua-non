@@ -1,0 +1,1 @@
+Can you brainstorm and draw Pokemon Black/White-style front/back sprites for the design in the image attached? Draw the image on a plain white background + in full color. Make sure the pixels are aligned and each sprite is at/below 96x96 pixels. Make the sprites distinctly different from the sprites in the reference image.

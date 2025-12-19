@@ -1,0 +1,3 @@
+fiery magical girl axolotl pokemon with energy wings, photoshop drawing, art by quanyails
+Negative prompt: ms paint, pixel, 3d model, worst quality, low-quality, watermark, artist name, signature, username
+Steps: 50, Sampler: Euler a, CFG scale: 12, Seed: 714691368, Size: 512x512, Model hash: 47c8ec7d, Batch size: 6, Batch pos: 3

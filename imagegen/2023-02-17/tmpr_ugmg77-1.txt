@@ -1,0 +1,3 @@
+ukiyo-e
+Negative prompt: nsfw, error, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+Steps: 20, Sampler: DDIM, CFG scale: 15, Seed: 3241162580, Size: 768x768, Model hash: 8712e20a5d, ControlNet Enabled: True, ControlNet Module: none, ControlNet Model: control_sd15_scribble [fef5e48e], ControlNet Weight: 0.7

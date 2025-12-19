@@ -1,0 +1,3 @@
+bright shiny ethereal frilly divine pokemon, featured on artstation, photoshop drawing, art by quanyails
+Negative prompt: human, ms paint, pixel, 3d model, cropped, worst quality, low-quality, watermark, artist name, signature, username
+Steps: 50, Sampler: Euler a, CFG scale: 10, Seed: 2686333583, Size: 512x512, Model hash: 47c8ec7d, Batch size: 6, Batch pos: 0

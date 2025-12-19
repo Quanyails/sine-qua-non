@@ -1,0 +1,2 @@
+a weird painting of smogon cap 27 digital painting of a dragon fire pokemon space axolotl, art by quanyails
+Steps: 20, CFG scale: 7.0, Seed: 838471617, Size: 512x512, Model hash: 47c8ec7d, Seed resize from: -1x-1, Denoising strength: 0.75
