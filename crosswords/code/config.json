@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "resources": [
+      "https://generalisms.com/constructing/",
+      "https://redd.it/nqsuku/",
+      "https://tcampbell.substack.com/p/shopping-for-wordlists"
+    ],
+    "updated": "2025-10-01"
+  },
+  "additions": {
+    "default_score_path": "overrides/scores.txt",
+    "data": [{
+        "word_path": "overrides/additions.txt"
+      }, {
+        "word_path": "overrides/temp.txt"
+      }
+    ]
+  },
+  "filters": {
+    "max_length": 15,
+    "min_score": 20
+  },
+  "out": {
+    "base": "out/base.dict",
+    "combined": "out/combined.dict",
+    "frequencies": "out/freq.png",
+    "overrides": "out/overrides.dict",
+    "postprocessed": "out/postprocessed.dict"
+  },
+  "overrides": {
+    "default_score_path": "overrides/scores.txt",
+    "data": [{
+        "word_path": "overrides/affixed.txt"
+      }, {
+        "word_path": "overrides/citystates.txt"
+      }, {
+        "word_path": "overrides/common.txt"
+      }, {
+        "word_path": "overrides/directions.txt"
+      }, {
+        "word_path": "overrides/length3.txt"
+      }, {
+        "word_path": "overrides/length4.txt"
+      }, {
+        "word_path": "overrides/letters.txt"
+      }, {
+        "word_path": "overrides/ones.txt"
+      }, {
+        "sort": "prep",
+        "word_path": "overrides/phrasal.txt"
+      }, {
+        "sort": "prep",
+        "word_path": "overrides/phrasalirregular.txt"
+      }, {
+        "word_path": "overrides/playground.txt"
+      }, {
+        "word_path": "overrides/profanity.txt"
+      }, {
+        "word_path": "overrides/romansaints.txt"
+      }, {
+        "word_path": "overrides/scales.txt"
+      }, {
+        "word_path": "overrides/tiles.txt"
+      }, {
+        "sort": "length",
+        "word_path": "overrides/words-3000.txt"
+      }, {
+        "sort": "length",
+        "word_path": "overrides/words-main.txt"
+      }
+    ]},
+  "unused": [{
+    "path": "data/christophsjones.txt",
+    "name": "christophsjones",
+    "range": [0, 50],
+    "scale": 1,
+    "source": "https://github.com/christophsjones/crossword-wordlist",
+    "updated": "2020-01-09"
+  }, {
+    "name": "adanicole",
+    "path": "data/adanicole.dict",
+    "range": [100, 100],
+    "scale": 0.5,
+    "source": "https://generalisms.com/constructing/",
+    "updated": "unknown"
+  }, {
+    "name": "brianthomas",
+    "path": "data/brianthomas.dict",
+    "range": [69, 69],
+    "scale": 0.5,
+    "source": "https://generalisms.com/constructing/",
+    "updated": "2023-06-10"
+  }, {
+    "name": "brodatrimmed",
+    "path": "data/brodatrimmed.txt",
+    "range": [20, 50],
+    "scale": 1,
+    "source": "https://redd.it/nqsuku/",
+    "updated": "2020-06-20"
+  }, {
+    "name": "mattabate",
+    "path": "data/matt.txt",
+    "range": [0, 50],
+    "scale": 1,
+    "source": "https://github.com/mattabate/wordlist",
+    "updated": "2025-06-28"
+  }, {
+    "name": "spreadthewordlist",
+    "path": "data/spreadthewordlist.dict",
+    "range": [0, 50],
+    "scale": 1,
+    "source": "https://www.spreadthewordlist.com/",
+    "updated": "2026-01-01"
+  }],
+  "wordlists": [{
+    "name": "xwordinfo",
+    "path": "data/xwordinfo.txt",
+    "range": [5, 60],
+    "scale": 1,
+    "source": "https://www.xwordinfo.com/WordList",
+    "updated": "2025-10-02?"
+  }, {
+    "name": "jkugelman",
+    "path": "data/jkugelman.txt",
+    "range": [0, 50],
+    "scale": 1,
+    "source": "https://github.com/jkugelman/crossword/blob/main/wordlists/jkugelman-wordlist.txt",
+    "updated": "2025-12-04"
+  }, {
+    "name": "crosswordnexus",
+    "path": "data/crosswordnexus.dict",
+    "range": [0, 100],
+    "scale": 0.5,
+    "source": "https://www.alexboisvert.com/xwordlist/",
+    "updated": "2023-02-12"
+  }]
+}
